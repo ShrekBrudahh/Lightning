@@ -32,7 +32,7 @@ void draw(){
     text("Congrats you passed!",20,50);
     noLoop();
   }else{
-    text("How long can your eyes last?",20,50);
+    text("How long can your eyes last? Click to increase difficulty",20,50);
   }
 }
 
